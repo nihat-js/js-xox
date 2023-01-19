@@ -1,3 +1,1 @@
-# js-xox
-Javascript XOX game 
-Live https://nihatxss.github.io/js-xox/
+<h2> JavaScript XoX game <h2>
